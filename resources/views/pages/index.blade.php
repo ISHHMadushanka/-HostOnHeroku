@@ -16,14 +16,14 @@
     </div>
 
 
-    <div class="wrapper">
+   <!-- <div class="wrapper"> -->
 
 
 
-      <div class="homeContent clearfix">
+   <!--   <div class="homeContent clearfix">  -->
 
 
-        <h1 class="topic">File Split Project</h1>
+        <h1 class="topic" style="margin: 20px 0 0 -4px;">File Split Project</h1>
 
         <p style="font-size: 1.3vw;">Latest news has revealed that the security of cryptographic keys have broken when retrieving
              information from back doors of cryptographic
@@ -85,9 +85,9 @@
        </div> <!--home-col-->
 
 
-          </div> <!--homeContent-->
+    <!--      </div> <!--homeContent-->
 
-        </div> <!-- wrapper-->
+      <!--  </div> <!-- wrapper-->
 
 
 @endsection
