@@ -20,7 +20,7 @@
 
 
 
-   <!--   <div class="homeContent clearfix">  -->
+     <div class="homeContent clearfix">
 
 
         <h1 class="topic" style="margin: 20px 0 0 -4px;">File Split Project</h1>
@@ -85,7 +85,7 @@
        </div> <!--home-col-->
 
 
-    <!--      </div> <!--homeContent-->
+      </div> <!--homeContent-->
 
       <!--  </div> <!-- wrapper-->
 
