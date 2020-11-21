@@ -21,15 +21,13 @@
 
 
       <div class="homeContent clearfix">
-
+<br>
 
   <div class="card-body">
 
     <blockquote class="blockquote">
 
-        <h1 class="card-title" style="font-family: 'Times New Roman', Times, serif">File Split Project </h1>
-
-
+       <b> <p class="card-text" style= "font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif">File Split Project </p> </b>
 
 
        <p class="card-text">Latest news has revealed that the security of cryptographic keys have broken when retrieving
