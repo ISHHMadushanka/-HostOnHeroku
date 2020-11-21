@@ -25,7 +25,7 @@
 
   <br> 
   <div class="card-body">
-        <h1 class="topic" style="margin: 23px 0 0 -4px;">File Split Project</h1>
+        <h1 class="topic">File Split Project</h1>
 
         <blockquote class="blockquote">
        <p class="mb-0"><strong>Latest news has revealed that the security of cryptographic keys have broken when retrieving
