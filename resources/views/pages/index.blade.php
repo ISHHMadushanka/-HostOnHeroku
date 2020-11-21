@@ -25,12 +25,13 @@
 
   <br> 
   <div class="card-body">
+  <blockquote class="blockquote">
  <span>
         <h1 class="card-title" style="font-family: 'Times New Roman', Times, serif"><strong>File Split Project</strong></h1> </span>
 
 
 
-        <blockquote class="blockquote">
+        
        <p class="card-text">Latest news has revealed that the security of cryptographic keys have broken when retrieving
              information from back doors of cryptographic
              softwares once encryption key is exposed.Therefore, the most securely way to store data is
