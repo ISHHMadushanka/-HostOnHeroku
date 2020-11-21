@@ -2,7 +2,7 @@
 
 <div class="contents">
     <span class="navbar-text">
-        <h1>Secure File Storage on Cloud Using Hybrid Cryptography</h1>
+        <h1>Secure File Storage on Cloud Using Hybrid Cryptograph</h1>
       </span>
     </div>
 
