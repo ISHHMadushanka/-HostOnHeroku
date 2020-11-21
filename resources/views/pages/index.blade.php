@@ -26,7 +26,7 @@
   <br> 
   <div class="card-body">
  <span>
-        <h1 class="display-4"><strong>File Split Project</strong></h1> </span>
+        <h1 class="display-5"><strong>File Split Project</strong></h1> </span>
 
         <blockquote class="blockquote">
        <h5 class="mb-0">Latest news has revealed that the security of cryptographic keys have broken when retrieving
