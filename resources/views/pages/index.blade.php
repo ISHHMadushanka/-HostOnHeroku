@@ -26,7 +26,7 @@
   <br> 
   <div class="card-body">
  <span>
-        <h1 class="card-title"><strong>File Split Project</strong></h1> </span>
+        <h1 class="card-title" style="font-family: 'Times New Roman', Times, serif"><strong>File Split Project</strong></h1> </span>
 
 
 
