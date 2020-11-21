@@ -23,12 +23,14 @@
       <div class="homeContent clearfix">
 
 
+  <br> 
         <h1 class="topic" style="margin: 23px 0 0 -4px;">File Split Project</h1>
 
-        <p class="lead" style="font-size: 1.5vw;">Latest news has revealed that the security of cryptographic keys have broken when retrieving
+        <blockquote class="blockquote">
+       <p class="mb-0" style="font-size: 1.5vw;"><strong>Latest news has revealed that the security of cryptographic keys have broken when retrieving
              information from back doors of cryptographic
              softwares once encryption key is exposed.Therefore, the most securely way to store data is
-              limiting of the access of attackers to the ciphertext.</p>
+              limiting of the access of attackers to the ciphertext.</strong></p> </blockquote>
 
 
          <br>
