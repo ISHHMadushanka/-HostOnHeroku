@@ -25,13 +25,13 @@
 
   <br> 
   <div class="card-body">
-        <h1 class="topic">File Split Project</h1>
+        <h1 class="topic"><strong>File Split Project</strong></h1>
 
         <blockquote class="blockquote">
-       <p class="mb-0"><strong>Latest news has revealed that the security of cryptographic keys have broken when retrieving
+       <p class="mb-0">Latest news has revealed that the security of cryptographic keys have broken when retrieving
              information from back doors of cryptographic
              softwares once encryption key is exposed.Therefore, the most securely way to store data is
-              limiting of the access of attackers to the ciphertext.</strong></p> </blockquote>
+              limiting of the access of attackers to the ciphertext.</p> </blockquote>
 </div>
 
          <br>
