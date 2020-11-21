@@ -24,6 +24,7 @@
 
 
   <br> 
+  <div class="card-body">
         <h1 class="topic" style="margin: 23px 0 0 -4px;">File Split Project</h1>
 
         <blockquote class="blockquote">
@@ -31,7 +32,7 @@
              information from back doors of cryptographic
              softwares once encryption key is exposed.Therefore, the most securely way to store data is
               limiting of the access of attackers to the ciphertext.</strong></p> </blockquote>
-
+</div>
 
          <br>
        <div class="home-col">
