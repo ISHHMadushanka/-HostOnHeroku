@@ -25,7 +25,7 @@
 
   <br> 
   <div class="card-body">
-        <h1 class="topic"><strong>File Split Project</strong></h1>
+        <h1 class="mb-0"><strong>File Split Project</strong></h1>
 
         <blockquote class="blockquote">
        <p class="mb-0">Latest news has revealed that the security of cryptographic keys have broken when retrieving
@@ -34,7 +34,7 @@
               limiting of the access of attackers to the ciphertext.</p> </blockquote>
 </div>
 
-         <br>
+         
        <div class="home-col">
 
         <div class="row">
